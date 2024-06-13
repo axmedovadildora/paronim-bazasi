@@ -1,0 +1,2 @@
+# paronim-bazasi
+paronim-bazasi
